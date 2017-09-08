@@ -41,7 +41,7 @@ Debug/
 Debug/*
 *.idb
 *.pdb
-MFC-Official-Version/Debug/*
+*/Debug/*
 *.tlog
 
 MFC_learn.opensdf
