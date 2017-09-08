@@ -43,5 +43,8 @@ Debug/*
 *.pdb
 */Debug/*
 *.tlog
+*.aps
+
 
 MFC_learn.opensdf
+MFC_learn/MFC_learn.aps
